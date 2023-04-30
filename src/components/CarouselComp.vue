@@ -33,13 +33,8 @@
 </div>
 </template>
 
-<script>
-export default {
-    name:"CarouselComp",
-    setup() {
-        
-    },
-}
+<script setup>
+
 </script>
 
 <style scoped>

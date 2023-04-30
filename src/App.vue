@@ -10,17 +10,23 @@ import FooterComp from './components/FooterComp.vue'
 
 <template>
 <NavbarComp/>
+<div class="container-lg w-auto p-3">
+    <router-view/>
+</div>
+<footer-comp/>
+
+<!--
 <JumbutronComp/>
 <CarouselComp/>
 <CardsComp/>
 <FormComp/>
 <FooterComp/>
+-->
 
 
 
 </template>
 
 <style scoped>
-
 
 </style>

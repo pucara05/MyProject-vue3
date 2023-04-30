@@ -1,0 +1,23 @@
+{
+    "citys":[
+{
+    "id":1,
+    "name":"Auckland",
+    "pronum":"ciudad de las velas",
+    "poster":"https://www.leeabbamonte.com/wp-content/uploads/2016/02/IMG_4179.jpg"
+},
+{
+    "id":2,
+    "name":"Christchurch",
+    "pronum":"el lugar de Tautahi",
+    "poster":"https://www.journeysinternational.com/wp-content/uploads/2019/04/christchurch-harbor-new-zealand.jpg"
+},
+{
+    "id":3,
+    "name":"Wellington",
+    "pronum":"el gran puerto de Tara",
+    "poster":"https://i.pinimg.com/originals/4e/8e/1a/4e8e1a6a56cccce9a33755a0790ccc19.jpg"
+}
+
+    ]
+}

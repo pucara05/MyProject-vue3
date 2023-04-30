@@ -40,13 +40,10 @@
   </template>
 
   <script >
-import JumbutronComp from '@/components/JumbutronComp.vue';
+
 
 export default {
-    
-    components: {
-     
-    },
+   
 };
 </script>
 
